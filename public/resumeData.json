@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name": "Tejal Bhavsar",
+    "occupation": " Front-End ReactJS Developer ",
+    "description": "Full Stack React and Rails developer , Content writer",
+    "image": "IG_Tejal.jpeg",
+    "bio": "My name is Tejal, I'm a Full Stack  Developer working on Ruby on Rails and React Js. Currently working as a Freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, get your Projects done.",
+    "email": "tejalbhavsar02@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Banglore",
+      "state": "India",
+      "zip": "560001"
+    },
+    "website": " ",
+    "resumedownload": " ",
+    "social": [
+      {
+        "name": "facebook",
+        "url": " ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tejal-bhavsar-ba0130173/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tejal-bhavsar-au6",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "North Maharashtra University",
+        "degree": "Bachlores in Electrical Engineering",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Frontend Developer",
+        "years": "Feb 2020 - Present",
+        "description": "Frontend Developer and a Content Writer"
+      }, {
+        "company": "Reluks",
+        "title": "jr. Frontend Developer",
+        "years": "Feb 2020 - Jul 2020",
+        "description": "Frontend Developer and a Content Writer"
+      }
+       
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Ruby on Rails",
+        "level": "75%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Content Writing",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Credas Trusteeship",
+        "category": " Frontend (Bootstrap , CSS , JS , HTML)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://shielded-caverns-66909.herokuapp.com/index.html"
+      },
+      {
+        "title": "Radhas Therapeutic Parlour",
+        "category": "Frontend",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://radhasbeautitherapies.netlify.app/"
+      },
+      {
+        "title": "facebook-clone",
+        "category": "Frontend",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://tejal-bhavsar-au6.github.io/RADHAS/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying. she may be fresh out of University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user": "Nikhil"
+      },
+      {
+        "text": "That Tejal Bhavsar must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire her, she may be fresh out of University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user": "Sachin Vichare "
+      }
+    ]
+  }
+}
